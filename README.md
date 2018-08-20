@@ -1,2 +1,2 @@
-# curso2018
-Curso de Mecánica Analítica. Agosto-Diciembre 2018
+# Mecánica Analítica
+Curso de la DCI. Agosto-Diciembre 2018
