@@ -35,9 +35,13 @@ Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;\mathrm{y}\&sp
   
   b) Graficar la Fase de la solución como función de la frecuencia de la fuerza externa.
   
-  c) Graficar el ángulo y la velocidad angular como función del tiempo.
+  c) Graficar el ángulo y la velocidad angular como función del tiempo para 2 condiciones iniciales distintas.
   
-  d) Graficar el espacio fase 
+  d) Graficar en el espacio fase las 2 trayectorias con condiciones iniciales distintas del inciso anterior. 
+  
+  e) Graficar en el espacio fase 2 trayectorias con 2 A's distintas, <img src="https://latex.codecogs.com/gif.latex?\mu=0.05" title="A=1\ \mathrm{y}\ \mu=0.05" /> y la misma confición inicial.
+  
+  f) Graficar en el espacio fase 2 trayectorias con 2 <img src="https://latex.codecogs.com/gif.latex?\mu's" title="A=1\ \mathrm{y}\ \mu's" /> distintas, A=1 y la misma confición inicial.
   
 2.- 
 
