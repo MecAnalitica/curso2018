@@ -16,3 +16,10 @@ Para las actividades numéricas, se usará python (su versión para buscador lla
    - Escribir códigos limpios, bien organizados y comprensibles. [Aquí](http://www2.cs.arizona.edu/~mccann/style_c.html) o [acá](http://www.inf.unibz.it/~nutt/Teaching/DSA1415/DSAAssignments/good-coding-style.html) dos referencias que pueden consultar.
 
 > *Nota: mucha de la ciencia con cómputo de alto desempeño se realiza con sistemas operativos basados en linux. Por lo tanto, se sugiere tener una MacOS o migrar a alguna distribución de linux para uso personal, como Ubuntu, las cuales pueden facilmente instalarse desde Windows.*
+
+
+#Actualización de repositorios
+
+git pull *(Actualiza tu subdirectorio de la nube)*
+git pull https://github.com/MecAnalitica/curso2018 master *(Actualiza tu subdirectorio de la branch master del repositorio de la clase)*
+git push *(Actualiza la nube)*
