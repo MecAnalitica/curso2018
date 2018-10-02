@@ -1,4 +1,4 @@
-# Tarea 2 (en equipos de 4 personas máximo)
+# Tarea 2 (Individual)
 
 ## Fecha de entrega 18 de Octubre
 
@@ -8,7 +8,7 @@ a) Actualizar constatemente el repositorio de las tareas (ver Readme.md en https
 
 b) Entregar notebook the Jupiter en el directorio de la tarea, con el nombre del archivo tareaX, donde X es el número de la tarea correspondiente.
 
-c) Poner nombre del (de los) estudiante(s) como primer entrada del notebook.
+c) Poner nombre del estudiante como primer entrada del notebook.
 
 d) Escribir comentarios, discusiones y conclusiones sobre el notebook.
 
