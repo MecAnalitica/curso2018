@@ -6,7 +6,7 @@
 
 a) Actualizar constatemente el repositorio de las tareas (ver Readme.md en https://github.com/MecAnalitica/curso2018)
 
-b) Entregar notebook the Jupiter en el directorio de la tarea, con el nombre del archivo tareaX, donde X es el número correspondiente.
+b) Entregar notebook the Jupiter en el directorio de la tarea, con el nombre del archivo tareaX, donde X es el número de la tarea correspondiente.
 
 c) Poner nombre del (de los) estudiantes como primer entrada del notebook.
 
