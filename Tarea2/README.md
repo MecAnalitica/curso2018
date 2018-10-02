@@ -2,6 +2,19 @@
 
 ## Fecha de entrega 18 de Octubre
 
+### Intrucciones:
+
+a) Actualizar constatemente el repositorio de las tareas (ver Readme.md en https://github.com/MecAnalitica/curso2018)
+
+b) Entregar notebook the Jupiter en el directorio de la tarea, con el nombre del archivo tareaX, donde X es el número correspondiente.
+
+c) Poner nombre del (de los) estudiantes como primer entrada del notebook.
+
+d) Escribir comentarios, discusiones y conclusiones sobre el notebook.
+
+e) Se califica redacción, organización, y presentación (nombre de ejes en las graficas, etc.).
+
+
 ### El péndulo forzado amortiguado
 
 La ecuación del péndulo forzado amortiguado es 
