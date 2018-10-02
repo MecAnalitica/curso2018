@@ -6,10 +6,13 @@
 
 ### Debe contener
 
-1. Introducción
-2. Conclusiones
-3. Al menos 5 referencias sólidas
-4. Temas (no en este orden):
+1 Introducción 
+
+2 Conclusiones
+
+3 Al menos 5 referencias sólidas
+
+4 Temas (no en este orden):
 
   * Mapeos (ejemplo: el logistico)
   
@@ -21,10 +24,13 @@
   
   * Fractales
 
-5. Un ejemplo de sistema caótico dinámico que no sea el péndulo
-6. Apéndices con códigos en jupyter
-7. Un tema extra de la teoría del caos, ya sea como aplicación, experimento, o de carácter teórico
-8. Buena redacción y ortografía
+5 Un ejemplo de sistema caótico dinámico que no sea el péndulo
+
+6 Apéndices con códigos en jupyter
+
+7 Un tema extra de la teoría del caos, ya sea como aplicación, experimento, o de carácter teórico
+
+8 Buena redacción, ortografía y ética en la redacción (ver abajo sobre el plagio)
 
 
 Se espera el trabajo en formato PDF con título, nombre del estudiante y resumen del trabajo en la primera página.
