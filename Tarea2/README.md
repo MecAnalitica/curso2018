@@ -8,12 +8,13 @@ a) Actualizar constatemente el repositorio de las tareas (ver Readme.md en https
 
 b) Entregar notebook the Jupiter en el directorio de la tarea, con el nombre del archivo tareaX, donde X es el número de la tarea correspondiente.
 
-c) Poner nombre del (de los) estudiantes como primer entrada del notebook.
+c) Poner nombre del (de los) estudiante(s) como primer entrada del notebook.
 
 d) Escribir comentarios, discusiones y conclusiones sobre el notebook.
 
 e) Se califica redacción, organización, y presentación (nombre de ejes en las graficas, etc.).
 
+------------------
 
 ### El péndulo forzado amortiguado
 
@@ -21,7 +22,28 @@ La ecuación del péndulo forzado amortiguado es
 
 Aceleración+Amortiguamiento+Gravedad=Fuerza externa
 
+Que como ecuación se ve 
+
+<img src="https://latex.codecogs.com/gif.latex?\ddot{\theta}&plus;\mu&space;\dot{\theta}&plus;\sin(\theta)=A&space;\cos&space;(w_d&space;\&space;t)" title="\ddot{\theta}+\mu \dot{\theta}+\sin(\theta)=A \cos (w_d \ t)" />,
+
+donde hemos normalizado el tiempo para que la frencuencia natural sea 1.
+
+1.- Límite lineal. Considerando ángulos pequeños, tenemos la ecuación lineal forzada y amortiguada vista en clase, cuya solución particular tiene una función coseno con una cierta amplitud y fase dada en términos de los parametros de la ecuación anterior. 
+Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;\mathrm{y}\&space;\mu=0.05" title="A=1\ \mathrm{y}\ \mu=0.05" />
+
+  a) Graficar la Amplitud como función de la frecuencia de la fuerza externa.
+  
+  b) Graficar la Fase de la solución como función de la frecuencia de la fuerza externa.
+  
+  c) Graficar el ángulo y la velocidad angular como función del tiempo.
+  
+  d) Graficar el espacio fase 
+  
+2.- 
+
 <!-- <img src="https://latex.codecogs.com/gif.latex?T=\frac{kV&plus;g}{gk}(1-e^{-kt})" title="T=\frac{kV+g}{gk}(1-e^{-kt})" />
+
+
 
 1.-
 ![figure not found](https://github.com/MecAnalitica/curso2018/blob/master/Tarea1/problem1.png)
