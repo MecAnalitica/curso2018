@@ -18,8 +18,10 @@ Para las actividades numéricas, se usará python (su versión para buscador lla
 > *Nota: mucha de la ciencia con cómputo de alto desempeño se realiza con sistemas operativos basados en linux. Por lo tanto, se sugiere tener una MacOS o migrar a alguna distribución de linux para uso personal, como Ubuntu, las cuales pueden facilmente instalarse desde Windows.*
 
 
-#Actualización de repositorios
+### Actualización de repositorios
 
 git pull *(Actualiza tu subdirectorio de la nube)*
+
 git pull https://github.com/MecAnalitica/curso2018 master *(Actualiza tu subdirectorio de la branch master del repositorio de la clase)*
+
 git push *(Actualiza la nube)*
