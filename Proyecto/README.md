@@ -29,4 +29,4 @@
 
 Se espera el trabajo en formato PDF con título, nombre del estudiante y resumen del trabajo en la primera página.
 
-La práctica parcial o total de plagio no es aceptable, y quien lo haga será acredor de una fuerte sanción (cero como calificación final del curso). Ver este documento (https://github.com/MecAnalitica/curso2018/blob/master/plagio.md) para más detalles sobre la definición de plagio.
+La práctica parcial o total de plagio no es aceptable, y quien lo haga será acredor de una fuerte sanción (incluso llegando a cero como calificación final del curso). Ver este documento (https://github.com/MecAnalitica/curso2018/blob/master/plagio.md) para más detalles sobre la definición de plagio.
