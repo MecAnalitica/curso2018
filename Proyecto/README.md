@@ -2,17 +2,17 @@
 
 ## Fecha de entrega: 11 de Noviembre (antes de las 11.59pm)
 
-## Individual y 20% de calificación final
+## Individual y cuenta 20% de calificación final
 
-### Debe contener
+### Debe contener:
 
-1 Introducción 
+1 ) Introducción (sin necesidad de llamarse así)
 
-2 Conclusiones
+2 ) Conclusiones
 
-3 Al menos 5 referencias sólidas
+3 ) Al menos 5 referencias sólidas
 
-4 Temas (no en este orden):
+4 ) Temas (no en este orden):
 
   * Mapeos (ejemplo: el logistico)
   
@@ -24,14 +24,13 @@
   
   * Fractales
 
-5 Un ejemplo de sistema caótico dinámico que no sea el péndulo
+5 ) Un ejemplo de sistema caótico mecánico que no sea el péndulo de la tarea 2
 
-6 Apéndices con códigos en jupyter
+6 ) Apéndices con los códigos en jupyter utilizados para exponer los diversos temas
 
-7 Un tema extra de la teoría del caos, ya sea como aplicación, experimento, o de carácter teórico
+7 ) Un tema extra a los anteriores sobre la teoría del caos, ya sea como aplicación, experimento, o de carácter teórico
 
-8 Buena redacción, ortografía y ética en la redacción (ver abajo sobre el plagio)
-
+8 ) Buena redacción, ortografía y ética en la redacción (ver debajo la discusión sobre el plagio)
 
 Se espera el trabajo en formato PDF con título, nombre del estudiante y resumen del trabajo en la primera página.
 
