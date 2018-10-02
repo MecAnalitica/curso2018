@@ -40,11 +40,11 @@ a) Escribe la energía cinética y potencial de la escalera como función de d(t
 
 b) Usando el método de la de energía, escribe la ecuación de movimiento para d(t). Repíte el cálculo usando las leyes de Newton y compara.
 
-c) Muestra que la escalera pierde contacto con la pared al caer cuando *3 Cos(d) = 2 Cos(do)*, donde *do* es el ángulo inicial entre la escalera y la pared en reposo. -->
+c) Muestra que la escalera pierde contacto con la pared al caer cuando *3 Cos(d) = 2 Cos(do)*, donde *do* es el ángulo inicial entre la escalera y la pared en reposo. 
 
 
 3.- Un tubo sólido pequeño de radio *r* se encuentra dentro de un tubo hueco más grande de radio *R*. Encuentra el periodo de las oscilaciones del tubo pequeño moviéndose dentro del grande alrededor de su punto de equilibrio. 
-> *Hint: Primero muestra que la velocidad angular *w* del tubo pequeño se relaciona con el ángulo *s* que forma el vector del centro de masa del tubo grande al centro de masa del tubo pequeño y la vertical, mediante* <img src="https://latex.codecogs.com/gif.latex?w=(R-r)\dot{s}/r" title="w=(R-r)\dot{s}/r" />
+> *Hint: Primero muestra que la velocidad angular *w* del tubo pequeño se relaciona con el ángulo *s* que forma el vector del centro de masa del tubo grande al centro de masa del tubo pequeño y la vertical, mediante* <img src="https://latex.codecogs.com/gif.latex?w=(R-r)\dot{s}/r" title="w=(R-r)\dot{s}/r" /> -->
 
 
 
