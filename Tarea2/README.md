@@ -24,12 +24,11 @@ Aceleración+Amortiguamiento+Gravedad=Fuerza externa
 
 Que como ecuación se ve 
 
-<img src="https://latex.codecogs.com/gif.latex?\ddot{\theta}&plus;\mu&space;\dot{\theta}&plus;\sin(\theta)=A&space;\cos&space;(w_d&space;\&space;t)" title="\ddot{\theta}+\mu \dot{\theta}+\sin(\theta)=A \cos (w_d \ t)" />,
+<img src="https://latex.codecogs.com/gif.latex?\ddot{\theta}&plus;\mu&space;\dot{\theta}&plus;w_0^2\sin(\theta)=A&space;\cos&space;(w_d&space;\&space;t)" title="\ddot{\theta}+\mu \dot{\theta}+\sin(\theta)=A \cos (w_d \ t)" />,
 
-donde hemos normalizado el tiempo para que la frencuencia natural sea 1.
 
 1.- Límite lineal. Considerando ángulos pequeños, tenemos la ecuación lineal forzada y amortiguada vista en clase, cuya solución particular (aquella que domina a tiempos grandes) tiene una función Coseno con una cierta amplitud y fase dada en términos de los parametros de la ecuación anterior. 
-Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;\mathrm{y}\&space;\mu=0.05" title="A=1\ \mathrm{y}\ \mu=0.05" />
+Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;,w_0=1\&space;\mathrm{y}\&space;\mu=0.05" title="A=1\ \mathrm{y}\ \mu=0.05" />
 
   a) Graficar la Amplitud como función de la frecuencia de la fuerza externa. ¿Exista alguna resonancia?
   
@@ -47,18 +46,19 @@ Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;\mathrm{y}\&sp
   
 2.- Ecuación no lineal no forzada sin amortiguamiento. 
 
-  a) Para un ángulo inicial de 70 grados en reposo, realiza una gráfica donde compares la solucion numérica del ángulo y su velocidad con aquella de la ecuación lineal usando las mismas condiciones iniciales.
+  a) Para un ángulo inicial de 70 grados en reposo y una frecuencia natural unitaria, realiza una gráfica donde compares la solucion numérica del ángulo y su velocidad con aquella de la ecuación lineal usando las mismas condiciones iniciales.
   
-  b) Construye el espacio fase, usando trayectorias que partan del reposo con un ángulo inicial que vaya de -90 a 90 grados, en intervalos de 10 grados.
+  b) Construye el espacio fase para una frecuencia natural unitaria, usando trayectorias que partan del reposo con un ángulo inicial que vaya de -90 a 90 grados, en intervalos de 10 grados. Suma dos trayectorias que den vueltas, una encontra de las manecillas del reloj y otra a favor.
 
 3.- Ecuación no lineal amortiguada no forzada.
 
-  b) Construye el espacio fase, usando trayectorias que partan del reposo con un ángulo inicial que vaya de -90 a 90 grados, en intervalos de 10 grados.
-
+  a) Utiliza un parametro de amortiguamiento de 0.02, la frecuencia natural unitaria y observa cómo el espacio fase se distorciona. Compara cada trayectoria del inciso b) del ejercio anterior con este caso amortiguado.
 
 4.- Ecuación no lineal completa.
 
-  a) Usando <img src="https://latex.codecogs.com/gif.latex?\mu&space;=&space;3\pi/2,&space;\quad&space;w&space;=&space;2\pi,&space;\quad&space;w_0=&space;3\pi" title="\mu = 3\pi/2, \quad w = 2\pi, \quad w_0= 3\pi" />, grafica la solución para cuatro casos de A=1, 
+  a) Usando <img src="https://latex.codecogs.com/gif.latex?\mu&space;=&space;3\pi/2,&space;\quad&space;w&space;=&space;2\pi,&space;\quad&space;w_0&space;=&space;3\pi" title="\mu = 3\pi/2, \quad w = 2\pi, \quad w_0= 3\pi" />, grafica la solución para cinco casos de A alrededor de 1.05. Qué pasa con las soluciones. ¿Qué ocurre si A=2?
+  
+  b) Obten las trayectorias en el espacio fase de los casos del inciso anterior.
   
   
 
