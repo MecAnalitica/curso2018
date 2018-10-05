@@ -60,6 +60,7 @@ Tomando <img src="https://latex.codecogs.com/gif.latex?A=1\&space;,w_0=1\&space;
   
   b) Obten las trayectorias en el espacio fase de los casos del inciso anterior.
   
+BONUS: Ve si puedes obtener un diagrama de bifurcación para esta ecuación no lineal. Busca información en la red para ver cómo hacerlo.
   
 
 <!-- <img src="https://latex.codecogs.com/gif.latex?T=\frac{kV&plus;g}{gk}(1-e^{-kt})" title="T=\frac{kV+g}{gk}(1-e^{-kt})" />
