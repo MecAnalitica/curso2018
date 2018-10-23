@@ -4,7 +4,7 @@
 
 ### Intrucciones:
 
-a) Subir PDF con las respuestas (no necesitas escribir las preguntas). Fijarse en que el escaneado sea legible y ordenado.
+a) Subir en PDF las respuestas (no necesitas escribir las preguntas) de las siguiente preguntas. Fijarse en que el documento escaneado o fotografiado sea LEGIBLE y ORDENADO.
 
 ### Pregunta 1
 
@@ -44,5 +44,5 @@ a) Encuentra las ecuaciones de Euler-Lagrange. ¿Se parece a algún sistema fís
 b) Realiza el cambio de variable <img src="https://latex.codecogs.com/gif.latex?Q=e^{bt/2}q" title="Q=e^{bt/2}q" />, 
 y construye el Lagrangiano como funcion de *Q* y *dQ/dt*. 
 Encuentra la simetría continua de este Lagrangiano y deduce la cantidad conservada asociada a ella usando el Teorema de Noether. 
-Rescribe esta cantidad conservada en términos de la variable original *q*.
+Re-escribe esta cantidad conservada en términos de la variable original *q* y discute el resultado.
 
