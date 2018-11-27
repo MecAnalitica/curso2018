@@ -24,6 +24,8 @@ Fijarse en que el documento escaneado o fotografiado sea LEGIBLE y ORDENADO.
 
 ### Pregunta 2
 
+<img src="https://github.com/MecAnalitica/curso2018/blob/master/Tarea4/Disco.png" width="150">
+
 Un disco delgado uniforme de masa M y radio A, rota sin fricción con una velocidad angular uniforme w sobre un eje 
 vertical fijo que pasa sobre su centro y tiende un ángulo alfa con el eje de simetría del disco. 
 
